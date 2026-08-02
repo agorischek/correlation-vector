@@ -19,7 +19,7 @@
     "@types/bun": "latest",
     "desm": "^1.3.1",
     "eslint": "^10.8.0",
-    "globals": "^17.7.0",
+    "globals": "^17.8.0",
     "prettier": "^3.9.6",
     "prettier-plugin-organize-imports": "^4.3.0",
     "table": "^6.9.0",
