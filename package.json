@@ -1,6 +1,6 @@
 {
   "name": "correlation-vector",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "repository": {
     "type": "git",
     "url": "https://github.com/agorischek/correlation-vector"
@@ -32,7 +32,6 @@
     "vite": "^8.2.0",
     "vite-plugin-dts": "^5.0.3"
   },
-  "peerDependencies": {},
   "author": "Microsoft",
   "license": "MIT",
   "scripts": {
